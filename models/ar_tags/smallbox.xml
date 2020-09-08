@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <multimarker markers="6">
     <marker index="0" status="1">
-        <corner x="-7.5" y="-7.5" z="0" />
-        <corner x="7.5" y="-7.5" z="0" />
-        <corner x="7.5" y="7.5" z="0" />
-        <corner x="-7.5" y="7.5" z="0" />
+        <corner x="-7.5" y="-7.5" z="15" />
+        <corner x="7.5" y="-7.5" z="15" />
+        <corner x="7.5" y="7.5" z="15" />
+        <corner x="-7.5" y="7.5" z="15" />
     </marker>
     <marker index="1" status="1">
-        <corner x="20" y="-7.5" z="-5.75" />
-        <corner x="20" y="-7.5" z="-20.75" />
-        <corner x="20" y="7.5" z="-20.75" />
-        <corner x="20" y="7.5" z="-5.75" />
+        <corner x="13.25" y="-7.5" z="7.5" />
+        <corner x="13.25" y="-7.5" z="-7.5" />
+        <corner x="13.25" y="7.5" z="-7.5" />
+        <corner x="13.25" y="7.5" z="7.5" />
     </marker>
     <marker index="2" status="1">
-        <corner x="7.5" y="-7.5" z="-26.5" />
-        <corner x="-7.5" y="-7.5" z="-26.5" />
-        <corner x="-7.5" y="7.5" z="-26.5" />
-        <corner x="7.5" y="7.5" z="-26.5" />
+        <corner x="7.5" y="-7.5" z="-15" />
+        <corner x="-7.5" y="-7.5" z="-15" />
+        <corner x="-7.5" y="7.5" z="-15" />
+        <corner x="7.5" y="7.5" z="-15" />
     </marker>
     <marker index="3" status="1">
-        <corner x="-20" y="-7.5" z="-20.75" />
-        <corner x="-20" y="-7.5" z="-5.75" />
-        <corner x="-20" y="7.5" z="-5.75" />
-        <corner x="-20" y="7.5" z="-20.75" />
+        <corner x="-13.25" y="-7.5" z="-7.5" />
+        <corner x="-13.25" y="-7.5" z="7.5" />
+        <corner x="-13.25" y="7.5" z="7.5" />
+        <corner x="-13.25" y="7.5" z="-7.5" />
     </marker>
     <marker index="4" status="1">
-        <corner x="-7.5" y="15" z="-5.75" />
-        <corner x="7.5" y="15" z="-5.75" />
-        <corner x="7.5" y="15" z="-20.75" />
-        <corner x="-7.5" y="15" z="-20.75" />
+        <corner x="-7.5" y="-20" z="-5.75" />
+        <corner x="7.5" y="-20" z="-5.75" />
+        <corner x="7.5" y="-20" z="-20.75" />
+        <corner x="-7.5" y="-20" z="-20.75" />
     </marker>
     <marker index="5" status="1">
-        <corner x="-7.5" y="-15" z="-20.75" />
-        <corner x="7.5" y="-15" z="-20.75" />
-        <corner x="7.5" y="-15" z="-5.75" />
-        <corner x="-7.5" y="-15" z="-5.75" />
+        <corner x="-7.5" y="20" z="-20.75" />
+        <corner x="7.5" y="20" z="-20.75" />
+        <corner x="7.5" y="20" z="-5.75" />
+        <corner x="-7.5" y="20" z="-5.75" />
     </marker>
 </multimarker>
