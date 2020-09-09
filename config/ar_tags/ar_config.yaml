@@ -30,3 +30,71 @@
     g: 0.0
     b: 0.0
     a: 0.0
+
+- id: 12
+  label: medium_box
+  file: "obj/big_box.obj"
+  position:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  orientation:
+    x: 1.57
+    y: 0.0
+    z: 0.0
+  color:
+    r: 0.0
+    g: 0.0
+    b: 0.0
+    a: 0.0
+
+- id: 18
+  label: medium_box
+  file: "obj/big_box.obj"
+  position:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  orientation:
+    x: 1.57
+    y: 0.0
+    z: 0.0
+  color:
+    r: 0.0
+    g: 0.0
+    b: 0.0
+    a: 0.0
+
+- id: 24
+  label: medium_box
+  file: "obj/big_box.obj"
+  position:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  orientation:
+    x: 1.57
+    y: 0.0
+    z: 0.0
+  color:
+    r: 0.0
+    g: 0.0
+    b: 0.0
+    a: 0.0
+
+- id: 30
+  label: medium_box
+  file: "obj/big_box.obj"
+  position:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  orientation:
+    x: 1.57
+    y: 0.0
+    z: 0.0
+  color:
+    r: 0.0
+    g: 0.0
+    b: 0.0
+    a: 0.0
