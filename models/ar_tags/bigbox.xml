@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<multimarker markers="6">
+<multimarker markers="6" marker_size="15">
     <marker index="6" status="1">
         <corner x="-7.5" y="-7.5" z="21" />
         <corner x="7.5" y="-7.5" z="21" />
