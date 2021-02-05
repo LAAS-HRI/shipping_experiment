@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
-<robot name="mediumbox">
-<link name="mediumbox">
+<robot name="medium_box">
+<link name="medium_box">
     <visual>
       <geometry>
-        <mesh filename="package://uwds3/models/cad_models/obj/mediumbox.obj"/>
+        <mesh filename="package://shipping_experiment/models/cad_models/obj/medium_box.obj"/>
       </geometry>
-      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <origin rpy="1.57 0 0" xyz="0 0 0"/>
     </visual>
     <collision>
       <geometry>
-      <box size="0.280 0.360 0.320"/> 
+        <mesh filename="package://shipping_experiment/models/cad_models/obj/medium_box.obj"/>
       </geometry>
-      <origin rpy="0 0 0" xyz="0 0 -0"/>
+      <origin rpy="1.57 0 0" xyz="0 0 -0"/>
       <contact_coefficients mu="1000.0" kp="0.00" kd="0.0"/>
     </collision>
-   
+
     <inertial>
       <mass value="0.7"/>
       <inertia ixx="0.001" ixy="0.0" ixz="0.0"
